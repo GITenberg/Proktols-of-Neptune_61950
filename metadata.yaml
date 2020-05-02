@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51643'
     url: http://www.gutenberg.org/2009/agents/51643
     wikipedia: https://en.wikipedia.org/wiki/Hannes_Bok
+covers:
+- cover_type: archival
+  image_path: 61950-h/images/cover.jpg
 creator:
   author:
     agent_name: Hasse, Henry
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32816
     wikipedia: https://en.wikipedia.org/wiki/Henry_Hasse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61950#Proktols-of-Neptune
 gutenberg_issued: '2020-04-27'
 gutenberg_type: Text
 identifiers:
